@@ -1,0 +1,5 @@
+.container {
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1000000;
+}
